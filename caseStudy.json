@@ -1,5 +1,4 @@
 [
-  // FIRST BRAND
   {
     "BRAND": "BOSS",
     "PRODUCTNAME": "DS-1",
@@ -50,7 +49,6 @@
     "QTYONBACKORDER": "0",
     "DESCRIPTION": "The ODB-3 Bass OverDrive delivers the chest-resonating distortion that hard rock, thrash, and punk bassists have been waiting for. This hot compact pedal has been designed specifically for bass applications."
   },
-  // SECOND BRAND
   {
     "BRAND": "MXR",
     "PRODUCTNAME": "Phase 90",
@@ -101,7 +99,6 @@
     "QTYONBACKORDER": "2",
     "DESCRIPTION": "The MXR Six Band EQ covers all the essential guitar frequencies and has been upgraded with noise-reduction circuitry, true bypass switching, brighter LEDs for increased visibility, and a lightweight aluminum housing."
   },
-  // THIRD BRAND
   {
     "BRAND": "EHX",
     "PRODUCTNAME": "Holy Grail",
