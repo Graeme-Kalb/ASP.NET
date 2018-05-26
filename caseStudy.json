@@ -2,7 +2,7 @@
   {
     "BRAND": "BOSS",
     "PRODUCTNAME": "DS-1",
-    "GRAPHICNAME": "ds-1 distortion pedal",
+    "GRAPHICNAME": "/images/ds1.jpg",
     "COSTPRICE": "40.00",
     "MSRP": "69.99",
     "QTYONHAND": "5",
@@ -12,7 +12,7 @@
   {
     "BRAND": "BOSS",
     "PRODUCTNAME": "CS-3",
-    "GRAPHICNAME": "cs-3 compression pedal",
+    "GRAPHICNAME": "/images/cs3.jpg",
     "COSTPRICE": "99.00",
     "MSRP": "144.99",
     "QTYONHAND": "5",
@@ -22,7 +22,7 @@
   {
     "BRAND": "BOSS",
     "PRODUCTNAME": "CE-5",
-    "GRAPHICNAME": "ce-5 chorus ensemble pedal",
+    "GRAPHICNAME": "/images/ce5.jpg",
     "COSTPRICE": "104.00",
     "MSRP": "149.99",
     "QTYONHAND": "5",
@@ -32,7 +32,7 @@
   {
     "BRAND": "BOSS",
     "PRODUCTNAME": "DD-3",
-    "GRAPHICNAME": "dd-3 delay pedal",
+    "GRAPHICNAME": "/images/dd3.jpg",
     "COSTPRICE": "129.00",
     "MSRP": "189.99",
     "QTYONHAND": "5",
@@ -42,7 +42,7 @@
   {
     "BRAND": "BOSS",
     "PRODUCTNAME": "ODB-3",
-    "GRAPHICNAME": "odb-3 bass overdrive pedal",
+    "GRAPHICNAME": "/images/odb3.jpg",
     "COSTPRICE": "109.00",
     "MSRP": "159.99",
     "QTYONHAND": "5",
@@ -52,7 +52,7 @@
   {
     "BRAND": "MXR",
     "PRODUCTNAME": "Phase 90",
-    "GRAPHICNAME": "phase 90 phaser pedal",
+    "GRAPHICNAME": "/images/phase90.jpg",
     "COSTPRICE": "80.00",
     "MSRP": "112.99",
     "QTYONHAND": "3",
@@ -62,7 +62,7 @@
   {
     "BRAND": "MXR",
     "PRODUCTNAME": "Dyna Comp",
-    "GRAPHICNAME": "dyna comp compressor pedal",
+    "GRAPHICNAME": "/images/dynacomp.jpg",
     "COSTPRICE": "70.00",
     "MSRP": "112.99",
     "QTYONHAND": "3",
@@ -72,7 +72,7 @@
   {
     "BRAND": "MXR",
     "PRODUCTNAME": "Carbon Copy",
-    "GRAPHICNAME": "carbon copy analog delay",
+    "GRAPHICNAME": "/images/carboncopy.jpg",
     "COSTPRICE": "140.00",
     "MSRP": "209.99",
     "QTYONHAND": "3",
@@ -82,7 +82,7 @@
   {
     "BRAND": "MXR",
     "PRODUCTNAME": "Double-Double",
-    "GRAPHICNAME": "double double overdrive pedal",
+    "GRAPHICNAME": "/images/doubledouble.jpg",
     "COSTPRICE": "120.00",
     "MSRP": "182.99",
     "QTYONHAND": "3",
@@ -92,7 +92,7 @@
   {
     "BRAND": "MXR",
     "PRODUCTNAME": "Six Band EQ",
-    "GRAPHICNAME": "six band eq pedal",
+    "GRAPHICNAME": "/images/sixband.jpg",
     "COSTPRICE": "80.00",
     "MSRP": "128.99",
     "QTYONHAND": "3",
@@ -102,7 +102,7 @@
   {
     "BRAND": "EHX",
     "PRODUCTNAME": "Holy Grail",
-    "GRAPHICNAME": "holy grail reverb pedal",
+    "GRAPHICNAME": "/images/holygrail.jpg",
     "COSTPRICE": "100.00",
     "MSRP": "143.99",
     "QTYONHAND": "0",
@@ -112,7 +112,7 @@
   {
     "BRAND": "EHX",
     "PRODUCTNAME": "Bass Big Muff Pi",
-    "GRAPHICNAME": "bass big muff pi bass pedal",
+    "GRAPHICNAME": "/images/bassbigmuff.jpg",
     "COSTPRICE": "50.00",
     "MSRP": "103.99",
     "QTYONHAND": "0",
@@ -122,7 +122,7 @@
   {
     "BRAND": "EHX",
     "PRODUCTNAME": "Cathedral",
-    "GRAPHICNAME": "cathedral stereo reverb",
+    "GRAPHICNAME": "/images/cathedral.jpg",
     "COSTPRICE": "120.00",
     "MSRP": "279.99",
     "QTYONHAND": "0",
@@ -132,7 +132,7 @@
   {
     "BRAND": "EHX",
     "PRODUCTNAME": "Black Finger",
-    "GRAPHICNAME": "black finger tube compressor pedal",
+    "GRAPHICNAME": "/images/blackfinger.jpg",
     "COSTPRICE": "140.00",
     "MSRP": "239.99",
     "QTYONHAND": "0",
@@ -142,7 +142,7 @@
   {
     "BRAND": "EHX",
     "PRODUCTNAME": "Freeze",
-    "GRAPHICNAME": "freeze sound retainer pedal",
+    "GRAPHICNAME": "/images/freeze.jpg",
     "COSTPRICE": "100.00",
     "MSRP": "155.99",
     "QTYONHAND": "0",
